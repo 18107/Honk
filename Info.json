@@ -1,0 +1,10 @@
+﻿{
+  "Id": "Honk",
+  "DisplayName": "Honk",
+  "Author": "18107",
+  "Version": "1.0.0",
+  "EntryMethod": "Honk.Main.Load",
+  "AssemblyName": "Honk.dll",
+  "Homepage": "https://www.nexusmods.com/derailvalley/mods/1194",
+  "Repository": "https://raw.githubusercontent.com/18107/Honk/main/repository.json"
+}
